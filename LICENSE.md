@@ -1,2 +1,3 @@
 
-Copyright (C) 2017 
+Copyright (C) Aaron Chamberlain 2017
+Just don't copy it to your homework... 
